@@ -7,6 +7,9 @@ Com o auxilio das bibliotecas pandas e matplotli, fizemos a limpeza dos dados e 
 
 ![image](https://user-images.githubusercontent.com/86981990/192804800-2c63b768-e852-479f-9a50-e432e74201d6.png)
 
+![image](https://user-images.githubusercontent.com/86981990/192898662-b4f88e2a-776e-4b15-a447-c80f7a66d0b6.png)
+
+
 
 As conclusões:
 
