@@ -4,7 +4,7 @@ Repositório criado para o projeto realizado no Mini Curso: Análise de Dados co
 O obejtivo do mini curso foi criar avaliar dados fornecidos por uma empresa cartão de crédito e extrair informações sobre os cancelamentos realizados.
 Com o auxilio das bibliotecas pandas e matplotli, fizemos a limpeza dos dados e criamos gráficos para comprar o perfil de clientes que cancelaram os carões com aqueles que ainda são clientes.
 
-![image](https://user-images.githubusercontent.com/86981990/192804554-ebf69f1b-c103-48f0-a4ec-172fc16d2349.png)
+![image](https://user-images.githubusercontent.com/86981990/192804800-2c63b768-e852-479f-9a50-e432e74201d6.png)
 
 
 As conclusões:
